@@ -1,0 +1,2 @@
+I think i might be more interested in small game or some SSR projects, actually any interesting projects will work!
+I think Common repository will be better, we don't have extra human resource to do the manager work for blessed repository
