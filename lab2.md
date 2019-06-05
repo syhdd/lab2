@@ -1,3 +1,6 @@
+# Short notice  
+The directorys in this repository is not the correct one  
+Those links are pointing to the correct repo  
 # Repo links
 https://github.com/syhdd/PullReq  
 https://github.com/syhdd/Spoon-Knife  
