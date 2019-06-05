@@ -4,7 +4,7 @@ https://github.com/syhdd/Spoon-Knife
 https://github.com/syhdd/lab2part1  
 https://github.com/ziyangji/OSSProjectIdeas  
 # Photo of Branch  
-![syhdd](branch.png)
+![syhdd](Branch.png)
 # Photo of Introduction  
 ![syhdd](introduction.png)
 # Photo of Diff  
